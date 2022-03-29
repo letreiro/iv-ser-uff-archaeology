@@ -1,2 +1,15 @@
-# iv-ser-uff-archaeology
-Code, data and presentation at the event VI International Seminar on Statistics with R
+# VI International Seminar on Statistics with R
+
+Code, data and presentation
+
+
+
+Dummy dataset
+
+metadata
+
+c14age
+std_age
+curve
+city
+state
